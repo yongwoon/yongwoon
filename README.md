@@ -47,18 +47,6 @@
   - 종합 라이프스타일 플랫폼 개발
   - 고성능 웹 애플리케이션 구축
 
-## 🔥 Featured Projects
-
-### Docker Ruby Development Environment
-- Ruby/Rails 개발 환경 자동화
-- Docker 컨테이너 기반 개발 환경 구성
-- [GitHub Repository](https://github.com/yongwoon/docker_ruby_sqlite3)
-
-### Hanami Book Shelf Tutorial
-- Hanami 프레임워크 기반 웹 애플리케이션
-- Ruby 백엔드 개발 실습
-- [GitHub Repository](https://github.com/yongwoon/hanami-book-shelf-tuto)
-
 ## 📊 GitHub Stats
 
 ![Yongwoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongwoon&show_icons=true&theme=radical&count_private=true)

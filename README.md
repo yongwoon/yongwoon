@@ -3,9 +3,18 @@
 > Full Stack Developer with 10+ years of experience, specializing in AI/ML integration and cloud-native applications
 
 🏢 Currently working at: Senior Developer at WebHani Inc.
+
 🌍 Location: Tokyo, Japan
+
 📧 Contact: yonyon.japan@gmail.com
+
 🔗 Portfolio: [portfolio.yongwoon.net](https://portfolio.yongwoon.net)
+
+## 📫 How to reach me
+
+- Email: yonyon.japan@gmail.com
+- GitHub: [@yongwoon](https://github.com/yongwoon)
+- Portfolio: [portfolio.yongwoon.net](https://portfolio.yongwoon.net)
 
 ## 🛠 Technical Skills
 
@@ -78,8 +87,4 @@
 
 
 
-## 📫 How to reach me
 
-- Email: yonyon.japan@gmail.com
-- GitHub: [@yongwoon](https://github.com/yongwoon)
-- Portfolio: [portfolio.yongwoon.net](https://portfolio.yongwoon.net)

@@ -65,7 +65,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongwoon&layout=compact&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yongwoon&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yongwoon&theme=radical)](https://git.io/streak-stats)
+
 
 
 ## 📫 How to reach me

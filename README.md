@@ -31,17 +31,30 @@
 ![gRPC](https://img.shields.io/badge/-gRPC-2DA675?style=flat-square&logo=grpc&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 
+経歴を基に、以下のようにfeatured projectsを再構成させていただきました：
+
 ## 🔥 Featured Projects
 
-### AI-Powered Document Processing System
-- Developed RAG-based document retrieval and analysis system
-- Implemented with Python, LangChain, and Vector Database
-- Improved document processing efficiency by 70%
+### LLM-Powered Job Search Platform
+- 履歴書と経歴書の自動生成のためのLLM統合プラットフォームを開発
+- TypeScript, React, Node.jsを活用したフルスタック開発
+- 求職者とキャリア情報のマッチング効率を向上
 
-### Cloud Infrastructure Automation
-- Designed and implemented IaC using Terraform
-- Managed multi-cloud deployment on AWS and GCP
-- Automated CI/CD pipelines with GitHub Actions
+### Annotation System
+- 自然言語処理のための法律文書アノテーションWebアプリケーションを開発
+- Ruby on Rails, React, PostgreSQLを使用
+- 法的文書の処理効率を最適化
+
+### Multi-Cloud Infrastructure Management
+- TerraformとKubernetesを使用したインフラストラクチャのコード化
+- AWS・GCPでのマルチクラウド環境の設計と実装
+- Dockerを活用したコンテナ化されたアプリケーションの展開
+
+### Digital Content Distribution Platform
+- アニメ・音楽配信プラットフォーム「dwango.jp」の開発
+- 大規模データベース管理とスケーラブルなバックエンド設計
+- マイクロサービスアーキテクチャの実装
+
 
 ## 📊 GitHub Stats
 

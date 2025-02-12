@@ -30,25 +30,6 @@
 ### Tools & Communications
 ![gRPC](https://img.shields.io/badge/-gRPC-2DA675?style=flat-square&logo=grpc&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-## 💼 Professional Experience
-
-- **LegalOn Technologies** (2020.02 - Present)
-  - Developed an annotation web application for natural language processing using Ruby on Rails and React
-  - Implemented AI-powered language processing systems using Python and LangChain
-  - Designed and developed RAG-based information retrieval system
-  - Architected and implemented GraphQL and RESTful APIs
-  - Led migration to microservices architecture using Docker and Kubernetes
-  - Technologies: Ruby on Rails, React, Python, LangChain, Docker, Kubernetes
-
-- **Drecom Co.,Ltd** (2019.09 - 2020.01)
-  - Developed gaming community and promotional websites
-  - Implemented user engagement features and analytics
-  - Technologies: Ruby on Rails, Vue.js, PostgreSQL
-
-- **GREE, Inc** (2017.09 - 2018.09)
-  - Built high-performance lifestyle platform applications
-  - Implemented scalable backend services
-  - Technologies: Ruby on Rails, MySQL, AWS
 
 ## 🔥 Featured Projects
 

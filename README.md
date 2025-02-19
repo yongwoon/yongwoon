@@ -36,24 +36,24 @@
 ## 🔥 Featured Projects
 
 ### LLM-Powered Job Search Platform
-- 履歴書と経歴書の自動生成のためのLLM統合プラットフォームを開発
-- TypeScript, React, Node.jsを活用したフルスタック開発
-- 求職者とキャリア情報のマッチング効率を向上
+- Developed an LLM-integrated platform for automated resume and CV generation
+- Full-stack development utilizing TypeScript, React, and Node.js
+- Improved matching efficiency between job seekers and career information
 
 ### Annotation System
-- 自然言語処理のための法律文書アノテーションWebアプリケーションを開発
-- Ruby on Rails, React, PostgreSQLを使用
-- 法的文書の処理効率を最適化
+- Developed a web application for legal document annotation using natural language processing
+- Implemented using Ruby on Rails, React, and PostgreSQL
+- Optimized legal document processing efficiency
 
 ### Multi-Cloud Infrastructure Management
-- TerraformとKubernetesを使用したインフラストラクチャのコード化
-- AWS・GCPでのマルチクラウド環境の設計と実装
-- Dockerを活用したコンテナ化されたアプリケーションの展開
+- Infrastructure as Code implementation using Terraform and Kubernetes
+- Design and implementation of multi-cloud environment across AWS and GCP
+- Deployment of containerized applications utilizing Docker
 
 ### Digital Content Distribution Platform
-- アニメ・音楽配信プラットフォーム「dwango.jp」の開発
-- 大規模データベース管理とスケーラブルなバックエンド設計
-- マイクロサービスアーキテクチャの実装
+- Development of music streaming platform
+- Large-scale database management and scalable backend design
+- Implementation of microservices architecture
 
 
 ## 📊 GitHub Stats

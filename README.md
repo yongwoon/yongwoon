@@ -8,7 +8,7 @@
 
 📧 Contact: yonyon.japan@gmail.com, yongwoon.kim@webhani.com
 
-🔗 Portfolio: [www.yongwoon.net](https://portfolio.yongwoon.net)
+🔗 Portfolio: [www.yongwoon.net](https://www.yongwoon.net)
 
 
 ## 🛠 Technical Skills

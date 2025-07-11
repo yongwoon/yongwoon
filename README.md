@@ -31,8 +31,6 @@
 ![gRPC](https://img.shields.io/badge/-gRPC-2DA675?style=flat-square&logo=grpc&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 
-経歴を基に、以下のようにfeatured projectsを再構成させていただきました：
-
 ## 🔥 Featured Projects
 
 ### LLM-Powered Job Search Platform

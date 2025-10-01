@@ -6,7 +6,7 @@
 
 🌍 Location: Tokyo, Japan
 
-📧 Contact: yonyon.japan@gmail.com, yongwoon.kim@webhani.com
+📧 Contact: yongwoon.kim@webhani.com
 
 🔗 Portfolio: [www.yongwoon.net](https://www.yongwoon.net)
 

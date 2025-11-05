@@ -1,6 +1,6 @@
 # Yongwoon Kim 👨‍💻
 
-> Full Stack Developer with 10+ years of experience, specializing in AI/ML integration and cloud-native applications
+> Full Stack Developer with 15+ years of experience, specializing in AI/ML integration and cloud-native applications
 
 🏢 Currently working at: Senior Developer at WebHani Inc.
 

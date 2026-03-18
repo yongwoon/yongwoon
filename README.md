@@ -26,7 +26,7 @@ Full Stack Developer with **15+ years** of experience building web applications,
 ### AI & LLM
 
 - **LLM-Powered Job Search Platform** — End-to-end platform using LLMs for automated resume generation and intelligent job matching. Built with TypeScript, React, and Node.js
-- **AI Agent Workflows** — Designing and building AI agent systems with modern orchestration frameworks including Mastra and LangChain ([sample](https://github.com/yongwoon/mastra-sample))
+- **AI Agent Workflows** — Designing and building AI agent systems with modern orchestration frameworks including Mastra and LangChain 
 
 ### Enterprise Applications
 
